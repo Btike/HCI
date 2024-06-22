@@ -11,7 +11,6 @@ import {
   MDBBtn,
   MDBScrollbar,
 } from "mdb-react-ui-kit";
-import './vista_1.css'
 
 export default function App() {
   const [messages, setMessages] = useState([]);
